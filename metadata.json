@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator & Monitoring Polusi Udara Real-Time AI",
+  "description": "Sistem estimasi polusi udara real-time berdasarkan volume kendaraan, emisi pabrik, klasifikasi risiko 3-level, serta rekomendasi mitigasi AI untuk Pemerintah Daerah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
